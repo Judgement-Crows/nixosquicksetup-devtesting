@@ -1,4 +1,4 @@
-{ config, ... }:
+{ inputs, packages, config, ... }:
 {
   description = "My configuration";
 

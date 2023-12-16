@@ -35,9 +35,11 @@
     home-manager
     neovim
     blueberry
+    floorp-unwrapped
     git
     wget
     kitty
+    bluez
     alacritty
     flatpak
   ];
